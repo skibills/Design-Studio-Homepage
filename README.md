@@ -1,4 +1,4 @@
-# Design-Studio-Homepage
+# Webpage-Design-Home
 
 Created using HTML and CSS.
-Beginer homepage design for a studio company.
+Beginer webpage design for a studio company.
